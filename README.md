@@ -3,6 +3,8 @@ This is Miguel Ángel, a current student on 42 Madrid and always looking for new
 [![madorna-'s 42 C Piscine stats](https://badge42.herokuapp.com/api/stats/madorna-?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 [![madorna-'s 42 stats](https://badge42.herokuapp.com/api/stats/madorna-)](https://github.com/JaeSeoKim/badge42)
 
+- [![madorna-'s 42Project Score](https://badge42.herokuapp.com/api/project/madorna-/Libft)](https://github.com/JaeSeoKim/badge42)
+
 <!--
 **AdornaRuiz/AdornaRuiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
