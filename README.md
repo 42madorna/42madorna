@@ -2,7 +2,6 @@
 
 _My name is Miguel Ángel and I'm a passionate of computer programming. I'm always looking for new knowledge and experiences._
 
-[![madorna-'s 42 C Piscine stats](https://badge42.herokuapp.com/api/stats/madorna-?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 [![madorna-'s 42 stats](https://badge42.herokuapp.com/api/stats/madorna-)](https://github.com/JaeSeoKim/badge42)
 
 ## My current marks for the 42 Cursus are the following:
