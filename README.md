@@ -24,7 +24,7 @@ I love **transparency** with users, **security** and **privacy** for them.
 
 ## What do I do
 
-Full stack development with **NodeJS** (express) and vanilla **JavaScript.** Programming with **C, Flutter** and **Kotlin.**
+Full stack development with **NodeJS** (express) and vanilla **JavaScript.** Programming with **C, C++, Flutter** and **Kotlin.**
 
 ## How did I arrive here
 
@@ -33,7 +33,7 @@ For four years I have been studying computer programming in a self-taught way an
 ## What will I do
 
 I will continue updating myself, just like I have done it until now, because in programming it is impossible to stay up-to-date if you don't keep learning new things.  
-With expectations to learn **C++, informatic security** and **blockchain.**
+With expectations to learn **informatic security** and **blockchain.**
 
 <!--
 **AdornaRuiz/AdornaRuiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
