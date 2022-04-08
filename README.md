@@ -8,14 +8,23 @@ _My name is Miguel Ángel and I'm a passionate of computer programming. I'm alwa
 
 | Project       | Mark                                                                                                                                    |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Libft         | [![madorna-'s 42Project Score](https://badge42.herokuapp.com/api/project/madorna-/Libft)](https://github.com/JaeSeoKim/badge42)         |
-| get_next_line | [![madorna-'s 42Project Score](https://badge42.herokuapp.com/api/project/madorna-/get_next_line)](https://github.com/JaeSeoKim/badge42) |
-| ft_printf     | [![madorna-'s 42Project Score](https://badge42.herokuapp.com/api/project/madorna-/ft_printf)](https://github.com/JaeSeoKim/badge42)     |
-| ft_server     | [![madorna-'s 42Project Score](https://badge42.herokuapp.com/api/project/madorna-/ft_server)](https://github.com/JaeSeoKim/badge42)     |
-| netwhat       | [![madorna-'s 42Project Score](https://badge42.herokuapp.com/api/project/madorna-/netwhat)](https://github.com/JaeSeoKim/badge42)       |
-| cub3d         | [![madorna-'s 42Project Score](https://badge42.herokuapp.com/api/project/madorna-/cub3d)](https://github.com/JaeSeoKim/badge42)         |
-| libasm        | [![madorna-'s 42Project Score](https://badge42.herokuapp.com/api/project/madorna-/libasm)](https://github.com/JaeSeoKim/badge42)        |
-| ft_services   | [![madorna-'s 42Project Score](https://badge42.herokuapp.com/api/project/madorna-/ft_services)](https://github.com/JaeSeoKim/badge42)   |
+| Libft         | [![madorna-'s 42 Libft Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/1896165)](https://github.com/JaeSeoKim/badge42)   |
+| get_next_line | [![madorna-'s 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/1940191)](https://github.com/JaeSeoKim/badge42) |
+| netwhat       | [![madorna-'s 42 netwhat Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/1954864)](https://github.com/JaeSeoKim/badge42) |
+| ft_printf     | [![madorna-'s 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/1952479)](https://github.com/JaeSeoKim/badge42) |
+| ft_server     | [![madorna-'s 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/1952479)](https://github.com/JaeSeoKim/badge42) |
+| Exam Rank 02  | [![madorna-'s 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/1952479)](https://github.com/JaeSeoKim/badge42) |
+| libasm        | [![madorna-'s 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/1952479)](https://github.com/JaeSeoKim/badge42) |
+| cub3d         | [![madorna-'s 42 cub3d Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/2074738)](https://github.com/JaeSeoKim/badge42)   |
+| ft_services   | [![madorna-'s 42 ft_services Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/2139445)](https://github.com/JaeSeoKim/badge42)   |
+| Philosophers  | [![madorna-'s 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/2363708)](https://github.com/JaeSeoKim/badge42) |
+| Exam Rank 03  | [![madorna-'s 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/2121234)](https://github.com/JaeSeoKim/badge42) |
+| minishell     | [![madorna-'s 42 minishell Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/2397424)](https://github.com/JaeSeoKim/badge42) |
+| CPP Module 00 | [![madorna-'s 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/2525842)](https://github.com/JaeSeoKim/badge42) |
+| CPP Module 01 | [![madorna-'s 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/2527945)](https://github.com/JaeSeoKim/badge42) |
+| CPP Module 02 | [![madorna-'s 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/2539924)](https://github.com/JaeSeoKim/badge42) |
+| CPP Module 03 | [![madorna-'s 42 CPP Module 03 Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/2545012)](https://github.com/JaeSeoKim/badge42) |
+| CPP Module 04 | [![madorna-'s 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/2529368)](https://github.com/JaeSeoKim/badge42) |
 
 ## My philosophy
 
