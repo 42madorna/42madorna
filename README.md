@@ -29,6 +29,7 @@ _My name is Miguel Ángel and I'm a passionate of computer programming. I'm alwa
 | CPP Module 06 | [![madorna-'s 42 CPP Module 06 Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/2597757)](https://github.com/JaeSeoKim/badge42) |
 | CPP Module 07 | [![madorna-'s 42 CPP Module 07 Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/2602144)](https://github.com/JaeSeoKim/badge42) |
 | CPP Module 08 | [![madorna-'s 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/2602349)](https://github.com/JaeSeoKim/badge42) |
+| Exam Rank 04 | [![madorna-'s 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/2592347)](https://github.com/JaeSeoKim/badge42) |
 
 ## My philosophy
 
