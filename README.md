@@ -24,7 +24,11 @@ _My name is Miguel Ángel and I'm a passionate of computer programming. I'm alwa
 | CPP Module 01 | [![madorna-'s 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/2527945)](https://github.com/JaeSeoKim/badge42) |
 | CPP Module 02 | [![madorna-'s 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/2539924)](https://github.com/JaeSeoKim/badge42) |
 | CPP Module 03 | [![madorna-'s 42 CPP Module 03 Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/2545012)](https://github.com/JaeSeoKim/badge42) |
-| CPP Module 04 | [![madorna-'s 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/2529368)](https://github.com/JaeSeoKim/badge42) |
+| CPP Module 04 | [![madorna-'s 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/2548472)](https://github.com/JaeSeoKim/badge42) |
+| CPP Module 05 | [![madorna-'s 42 CPP Module 05 Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/2584982)](https://github.com/JaeSeoKim/badge42) |
+| CPP Module 06 | [![madorna-'s 42 CPP Module 06 Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/2597757)](https://github.com/JaeSeoKim/badge42) |
+| CPP Module 07 | [![madorna-'s 42 CPP Module 07 Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/2602144)](https://github.com/JaeSeoKim/badge42) |
+| CPP Module 08 | [![madorna-'s 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/2602349)](https://github.com/JaeSeoKim/badge42) |
 
 ## My philosophy
 
