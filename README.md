@@ -2,6 +2,7 @@
 
 _My name is Miguel Ángel and I'm a passionate of computer programming. I'm always looking for new knowledge and experiences._
 
+<!--
 [![madorna-'s 42 stats](https://badge42.vercel.app/api/v2/stats/cl1iouipz002509jwjbnpt2v1?cursusId=21)](https://github.com/JaeSeoKim/badge42)
 
 ## My current marks for the 42 Cursus are the following:
@@ -33,7 +34,7 @@ _My name is Miguel Ángel and I'm a passionate of computer programming. I'm alwa
 | webserv       | [![madorna-'s 42 webserv Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/3022044)](https://github.com/JaeSeoKim/badge42) |
 | Exam Rank 05  | [![madorna-'s 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/3036960)](https://github.com/JaeSeoKim/badge42) |
 | CPP Module 09 | [![madorna-'s 42 CPP Module 09 Score](https://badge42.vercel.app/api/v2/cl1iouipz002509jwjbnpt2v1/project/3131394)](https://github.com/JaeSeoKim/badge42) |
-
+-->
 ## My philosophy
 
 I love **transparency** with users, **security** and **privacy** for them.  
